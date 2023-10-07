@@ -27,6 +27,3 @@
 | 25 |  |
 | 26 |  |
 | 27 |  |
-
-
- "R-RUKAMI EX-EXCEL C-COD"
