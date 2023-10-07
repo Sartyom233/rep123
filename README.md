@@ -1,4 +1,4 @@
-|number  |  type |
+| number | EGtype |
 | ------ | ------ |
 | 1|R |
 | 2|RC|
