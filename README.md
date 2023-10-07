@@ -1,4 +1,4 @@
-|number|  | type |
+|number  |  type |
 | ------ | ------ |
 | 1|R |
 | 2|RC|
