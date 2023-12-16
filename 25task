@@ -1,0 +1,13 @@
+import fnmatch
+for i in range(2024,10**10,2024):
+    x=str(i)
+    if fnmatch.fnmatch(x,"1?2157*4")==True:
+        print(i,i/2024)
+z=[]
+for i in range(2024,10**10,2024):
+    x=str(i)
+    if x[0]=="1" and x[2]=="2" and x[3]=="1" and x[4]=="5" and x[5]=="7" and x[-1]=="4":
+        z.append(x)
+        z.append(int(x)/2024)
+print(z)
+#1?2157*4
